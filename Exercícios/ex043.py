@@ -1,7 +1,7 @@
 p = float(input('Qual o peso em Kg: '))
 a = float(input('Qual a altura em m: '))
 imc = p /(a)**2
-print('O IMC do indivíduo é {:.2f}Kg/m2 e'.format(imc), end=' ')
+print('O IMC do indivíduo é {:.1f}Kg/m2 e'.format(imc), end=' ')
 if imc <= 18.5:
     print('o indivíduo está abaixo do peso.')
 elif 18.5 < imc <= 25:
