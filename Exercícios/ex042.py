@@ -19,5 +19,3 @@ if not nt:
         print('É um triangulo escaleno.')
     elif x == y or x == z or y == z:
         print('É um triangulo isosceles.')
-    else:
-        print(' ')
