@@ -15,7 +15,7 @@ for p in range(1, 6):
     if gen in 'Mm' and idade > maioridadehomem:
         maioridadehomem = idade
         nomehomemvelho = nome
-    if gen in 'Ff' and idade < 20:
+    if gen in 'Ff' and idade < 21:
         totmulher20 += 1
 
 mediaidade = somaidade / 4
