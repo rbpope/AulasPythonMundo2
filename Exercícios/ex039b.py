@@ -1,10 +1,11 @@
 from datetime import date
 
 atual = date.today().year
-gen = int(input('''Qual o seu gênero:
+print('''Qual o seu gênero:
 [1] Masculino
 [2] Feminino
-'''))
+''')
+gen = int(input('Qual a sua opção: '))
 if gen == 2:
     print('Você não precisa se alistar.')
 elif gen == 1:
