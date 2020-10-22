@@ -1,5 +1,5 @@
 d = 'Y'
-soma = media = c = 0
+soma = media = c = maior = menor = 0
 while d == 'Y':
     n = int(input('Digite um número: '))
     soma += n
@@ -8,7 +8,10 @@ while d == 'Y':
     media = soma / c
     if c == 1:
         maior = menor = n
-    if n > maior:
-        maior = n
-
+    else:
+        if n > maior:
+            maior = n
+        if n < menor:
+            menor = n
 print('Você digitou {} números e  média dos valores digitados foi {}.'.format(c, media))
+print('O maior valor digitado foi {} e o menor foi {}.'.format(maior, menor))
