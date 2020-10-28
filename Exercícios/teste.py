@@ -1,0 +1,8 @@
+a = int(input('digite um número: '))
+b = int(input ('digite outro número: '))
+print('='*120)
+print('A soma entre {} e {} é {}'.format(a, b, a + b), end=' ')
+print(', a diferença entre {} e {} é {}'.format(a , b, a - b), end=' ')
+print(', o produto entre eles é {}.'.format(a*b), end=' ')
+print('e a potência entre eles é {}'.format(a ** b))
+print('='*120)
