@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c469f05-7cd1-4db7-a5dd-cb6e8db4db86" name="Default Changelist" comment="novos arquivos" />
+    <list default="true" id="3c469f05-7cd1-4db7-a5dd-cb6e8db4db86" name="Default Changelist" comment="novos arquivos feitos">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercícios/ex093.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios/ex093.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +55,7 @@
       <recent name="C:\Users\rbpop\Documents\Aulas PythonMundo2\AulasPythonMundo2\Exercícios" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex092">
+  <component name="RunManager" selected="Python.ex093">
     <configuration name="Aula19" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AulasPythonMundo2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -66,27 +69,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios/Aula19.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex089" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AulasPythonMundo2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercícios" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios/ex089.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,13 +140,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex093" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AulasPythonMundo2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercícios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios/ex093.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex093" />
         <item itemvalue="Python.ex092" />
         <item itemvalue="Python.ex091" />
         <item itemvalue="Python.ex090" />
         <item itemvalue="Python.Aula19" />
-        <item itemvalue="Python.ex089" />
       </list>
     </recent_temporary>
   </component>
@@ -233,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604270350708</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="novos arquivos feitos">
+      <created>1604364865433</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1604364865433</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -256,29 +266,30 @@
     <MESSAGE value="exercicios resolvidos" />
     <MESSAGE value="exercicio resolvido" />
     <MESSAGE value="novos arquivos" />
-    <option name="LAST_COMMIT_MESSAGE" value="novos arquivos" />
+    <MESSAGE value="novos arquivos feitos" />
+    <option name="LAST_COMMIT_MESSAGE" value="novos arquivos feitos" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1259" height="241" key="GridCell.Tab.0.bottom" timestamp="1604364537032">
+    <state width="1259" height="137" key="GridCell.Tab.0.bottom" timestamp="1604367104398">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="241" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604364537032" />
-    <state width="1259" height="241" key="GridCell.Tab.0.center" timestamp="1604364537032">
+    <state width="1259" height="137" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604367104398" />
+    <state width="1259" height="137" key="GridCell.Tab.0.center" timestamp="1604367104397">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="241" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1604364537032" />
-    <state width="1259" height="241" key="GridCell.Tab.0.left" timestamp="1604364537032">
+    <state width="1259" height="137" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1604367104397" />
+    <state width="1259" height="137" key="GridCell.Tab.0.left" timestamp="1604367104397">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="241" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1604364537032" />
-    <state width="1259" height="241" key="GridCell.Tab.0.right" timestamp="1604364537032">
+    <state width="1259" height="137" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1604367104397" />
+    <state width="1259" height="137" key="GridCell.Tab.0.right" timestamp="1604367104397">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="241" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1604364537032" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1604270358798">
+    <state width="1259" height="137" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1604367104397" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1604364874168">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1604270358798" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1604364874168" />
     <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604179021150">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
