@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c469f05-7cd1-4db7-a5dd-cb6e8db4db86" name="Default Changelist" comment="final da aula">
-      <change beforePath="$PROJECT_DIR$/Exercícios/ex096.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios/ex096.py" afterDir="false" />
+    <list default="true" id="3c469f05-7cd1-4db7-a5dd-cb6e8db4db86" name="Default Changelist" comment="ex096 resolvido">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -256,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604759653772</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="final da aula">
+      <created>1604760272861</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1604760272861</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -289,26 +296,26 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="518" y="43" key="#Code_Folding/0.0.1280.680@0.0.1280.680" timestamp="1604758312427" />
-    <state width="619" height="285" key="GridCell.Tab.0.bottom" timestamp="1604760204682">
+    <state width="619" height="241" key="GridCell.Tab.0.bottom" timestamp="1604760722682">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1419" height="160" key="GridCell.Tab.0.bottom/-1920.-180.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1604436994743" />
-    <state width="619" height="285" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604760204682" />
-    <state width="619" height="285" key="GridCell.Tab.0.center" timestamp="1604760204681">
+    <state width="619" height="241" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604760722682" />
+    <state width="619" height="241" key="GridCell.Tab.0.center" timestamp="1604760722682">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1419" height="160" key="GridCell.Tab.0.center/-1920.-180.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1604436994742" />
-    <state width="619" height="285" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1604760204681" />
-    <state width="619" height="285" key="GridCell.Tab.0.left" timestamp="1604760204681">
+    <state width="619" height="241" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1604760722682" />
+    <state width="619" height="241" key="GridCell.Tab.0.left" timestamp="1604760722682">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1419" height="160" key="GridCell.Tab.0.left/-1920.-180.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1604436994741" />
-    <state width="619" height="285" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1604760204681" />
-    <state width="619" height="285" key="GridCell.Tab.0.right" timestamp="1604760204681">
+    <state width="619" height="241" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1604760722682" />
+    <state width="619" height="241" key="GridCell.Tab.0.right" timestamp="1604760722682">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1419" height="160" key="GridCell.Tab.0.right/-1920.-180.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1604436994742" />
-    <state width="619" height="285" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1604760204681" />
+    <state width="619" height="241" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1604760722682" />
     <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1604759659712">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
