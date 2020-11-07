@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c469f05-7cd1-4db7-a5dd-cb6e8db4db86" name="Default Changelist" comment="novos arquivos feitos e ajustes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/Aula020.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios/Aula020.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/ex095.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios/ex095.py" afterDir="false" />
+    <list default="true" id="3c469f05-7cd1-4db7-a5dd-cb6e8db4db86" name="Default Changelist" comment="final da aula">
       <change beforePath="$PROJECT_DIR$/Exercícios/ex096.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios/ex096.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +54,7 @@
       <recent name="C:\Users\rbpop\Documents\Aulas PythonMundo2\AulasPythonMundo2\Exercícios" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Aula020">
+  <component name="RunManager" selected="Python.ex096">
     <configuration name="Aula020" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AulasPythonMundo2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,8 +162,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Aula020" />
         <item itemvalue="Python.ex096" />
+        <item itemvalue="Python.Aula020" />
         <item itemvalue="Python.ex095" />
         <item itemvalue="Python.ex094" />
         <item itemvalue="Python.ex093" />
@@ -252,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604436971455</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="final da aula">
+      <created>1604759653772</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1604759653772</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -277,38 +281,39 @@
     <MESSAGE value="novos arquivos" />
     <MESSAGE value="novos arquivos feitos" />
     <MESSAGE value="novos arquivos feitos e ajustes" />
-    <option name="LAST_COMMIT_MESSAGE" value="novos arquivos feitos e ajustes" />
+    <MESSAGE value="final da aula" />
+    <option name="LAST_COMMIT_MESSAGE" value="final da aula" />
   </component>
   <component name="WindowStateProjectService">
     <state x="518" y="43" key="#Code_Folding" timestamp="1604758312427">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="518" y="43" key="#Code_Folding/0.0.1280.680@0.0.1280.680" timestamp="1604758312427" />
-    <state width="619" height="137" key="GridCell.Tab.0.bottom" timestamp="1604759448620">
+    <state width="619" height="285" key="GridCell.Tab.0.bottom" timestamp="1604760204682">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1419" height="160" key="GridCell.Tab.0.bottom/-1920.-180.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1604436994743" />
-    <state width="619" height="137" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604759448620" />
-    <state width="619" height="137" key="GridCell.Tab.0.center" timestamp="1604759448619">
+    <state width="619" height="285" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604760204682" />
+    <state width="619" height="285" key="GridCell.Tab.0.center" timestamp="1604760204681">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1419" height="160" key="GridCell.Tab.0.center/-1920.-180.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1604436994742" />
-    <state width="619" height="137" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1604759448619" />
-    <state width="619" height="137" key="GridCell.Tab.0.left" timestamp="1604759448619">
+    <state width="619" height="285" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1604760204681" />
+    <state width="619" height="285" key="GridCell.Tab.0.left" timestamp="1604760204681">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1419" height="160" key="GridCell.Tab.0.left/-1920.-180.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1604436994741" />
-    <state width="619" height="137" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1604759448619" />
-    <state width="619" height="137" key="GridCell.Tab.0.right" timestamp="1604759448620">
+    <state width="619" height="285" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1604760204681" />
+    <state width="619" height="285" key="GridCell.Tab.0.right" timestamp="1604760204681">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1419" height="160" key="GridCell.Tab.0.right/-1920.-180.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1604436994742" />
-    <state width="619" height="137" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1604759448620" />
-    <state x="262" y="98" key="Vcs.Push.Dialog.v2" timestamp="1604436982403">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="619" height="285" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1604760204681" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1604759659712">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="262" y="98" key="Vcs.Push.Dialog.v2/-1920.-180.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1604436982403" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1604364874168" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1604759659712" />
     <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604179021150">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
