@@ -1,8 +1,10 @@
-def area(l, h):
+def area():
     a = l * h
-    print('-='*10)
-    print(f'A área é {a} cm²')
-    print('-=' * 10)
+    print('-='*25)
+    print(f'A área do seu terreno de {l}m X {h}m é {a} m²')
+    print('-=' * 25)
 
 
-area(4, 2)
+l = float(input('Qual a largura do terreno em m: '))
+h = float(input('Qual a profundidade do seu terreno em m: '))
+print(area())
