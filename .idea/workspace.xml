@@ -19,7 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c469f05-7cd1-4db7-a5dd-cb6e8db4db86" name="Default Changelist" comment="novos arquivos feitos" />
+    <list default="true" id="3c469f05-7cd1-4db7-a5dd-cb6e8db4db86" name="Default Changelist" comment="novos arquivos feitos">
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex096.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex097.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex098.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex099.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/ex100.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercícios/Aula19.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios/Aula019.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +61,7 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.ex093">
-    <configuration name="Aula19" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Aula019" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AulasPythonMundo2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,7 +73,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios/Aula19.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\rbpop\Documents\Aulas PythonMundo2\AulasPythonMundo2\Exercícios\Aula019.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,7 +172,7 @@
         <item itemvalue="Python.ex092" />
         <item itemvalue="Python.ex091" />
         <item itemvalue="Python.ex090" />
-        <item itemvalue="Python.Aula19" />
+        <item itemvalue="Python.Aula019" />
       </list>
     </recent_temporary>
   </component>
