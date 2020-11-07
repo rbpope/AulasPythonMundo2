@@ -1,6 +1,10 @@
 jogador = dict()
 partidas = list()
 equipe = list()
+def linha():
+    print('-=-' * 20)
+
+
 while True:
     jogador.clear()
     jogador['nome'] = str(input('Nome do jogador: ')).strip().capitalize()
@@ -18,13 +22,13 @@ while True:
         print('Erro, responda S ou N:')
     if d == 'N':
         break
-print('-=-'*20)
+linha()
 for k,v in enumerate(equipe):
     print(f'{k + 1:>3}', end=' ')
     for d in v.values():
         print(f'{str(d):<15}', end=' ')
     print()
-print('-=-'*20)
+linha()
 while True:
     busca = int(input(f'Mostrar dados de qual jogador? (0 para nenhum): '))
     indice = busca - 1
@@ -37,7 +41,7 @@ while True:
         print(f'Levantamento do jogador {equipe[indice]["nome"]}: ')
         for i, g in enumerate(equipe[indice]['gols']):
             print(f'    No {i + 1}° jogo fez {g} gols.')
-    print('-'*50)
+    linha()
 print('Obrigado por Utilizar')
 
 '''for k, v in jogador.items():

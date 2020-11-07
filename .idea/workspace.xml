@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c469f05-7cd1-4db7-a5dd-cb6e8db4db86" name="Default Changelist" comment="novos arquivos feitos" />
+    <list default="true" id="3c469f05-7cd1-4db7-a5dd-cb6e8db4db86" name="Default Changelist" comment="novos arquivos feitos e ajustes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercícios/Aula020.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios/Aula020.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercícios/ex095.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios/ex095.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercícios/ex096.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios/ex096.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,8 +57,8 @@
       <recent name="C:\Users\rbpop\Documents\Aulas PythonMundo2\AulasPythonMundo2\Exercícios" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex095">
-    <configuration name="ex091" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Aula020">
+    <configuration name="Aula020" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AulasPythonMundo2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,28 +70,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios/ex091.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex092" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AulasPythonMundo2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercícios" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios/ex092.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios/Aula020.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,13 +142,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex096" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AulasPythonMundo2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercícios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios/ex096.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Aula020" />
+        <item itemvalue="Python.ex096" />
         <item itemvalue="Python.ex095" />
         <item itemvalue="Python.ex094" />
         <item itemvalue="Python.ex093" />
-        <item itemvalue="Python.ex092" />
-        <item itemvalue="Python.ex091" />
       </list>
     </recent_temporary>
   </component>
@@ -271,29 +276,34 @@
     <MESSAGE value="exercicio resolvido" />
     <MESSAGE value="novos arquivos" />
     <MESSAGE value="novos arquivos feitos" />
-    <option name="LAST_COMMIT_MESSAGE" value="novos arquivos feitos" />
+    <MESSAGE value="novos arquivos feitos e ajustes" />
+    <option name="LAST_COMMIT_MESSAGE" value="novos arquivos feitos e ajustes" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1419" height="160" key="GridCell.Tab.0.bottom" timestamp="1604436994743">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="518" y="43" key="#Code_Folding" timestamp="1604758312427">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="518" y="43" key="#Code_Folding/0.0.1280.680@0.0.1280.680" timestamp="1604758312427" />
+    <state width="619" height="137" key="GridCell.Tab.0.bottom" timestamp="1604759448620">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1419" height="160" key="GridCell.Tab.0.bottom/-1920.-180.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1604436994743" />
-    <state width="1259" height="137" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604369355946" />
-    <state width="1419" height="160" key="GridCell.Tab.0.center" timestamp="1604436994742">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="619" height="137" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604759448620" />
+    <state width="619" height="137" key="GridCell.Tab.0.center" timestamp="1604759448619">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1419" height="160" key="GridCell.Tab.0.center/-1920.-180.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1604436994742" />
-    <state width="1259" height="137" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1604369355946" />
-    <state width="1419" height="160" key="GridCell.Tab.0.left" timestamp="1604436994741">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="619" height="137" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1604759448619" />
+    <state width="619" height="137" key="GridCell.Tab.0.left" timestamp="1604759448619">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1419" height="160" key="GridCell.Tab.0.left/-1920.-180.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1604436994741" />
-    <state width="1259" height="137" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1604369355946" />
-    <state width="1419" height="160" key="GridCell.Tab.0.right" timestamp="1604436994742">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="619" height="137" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1604759448619" />
+    <state width="619" height="137" key="GridCell.Tab.0.right" timestamp="1604759448620">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1419" height="160" key="GridCell.Tab.0.right/-1920.-180.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1604436994742" />
-    <state width="1259" height="137" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1604369355946" />
+    <state width="619" height="137" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1604759448620" />
     <state x="262" y="98" key="Vcs.Push.Dialog.v2" timestamp="1604436982403">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
