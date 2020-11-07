@@ -5,12 +5,12 @@ numeros = list()
 
 
 def sorteia(lista):
-    print('Sorteando os números: ', end=' ')
+    print('Sorteando os números: ', end=' ', flush=True)
     sleep(0.3)
     for cont in range(0, 5):
         n = randint(0, 10)
         lista.append(n)
-        print(f'{n} ', end=' ')
+        print(f'{n} ', end=' ', flush=True)
         sleep(0.3)
     print('FIM')
 
