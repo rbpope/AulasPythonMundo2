@@ -11,7 +11,7 @@ c = ('\033[m',                      #0 - sem cor
      )
 
 
-def titulo(msg, cor=0) -> object:
+def titulo(msg, cor=0):
     tam = len(msg) + 4
     print(c[cor], end='')
     print('˜' * tam)
