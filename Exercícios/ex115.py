@@ -10,7 +10,10 @@ while True:
         cabecalho('Ver Cadastro')
         lerarquivo(a)
     elif resposta == 2:
-        cabecalho('Opção 2')
+        cabecalho('Cadastrar novo indivíduo')
+        nome = str(input('Nome: ')).strip().title()
+        idade = leiaint('Idade: ')
+        cadastrar(a, nome, idade)
     elif resposta == 3:
         cabecalho('Terminando o sistema.')
         break
