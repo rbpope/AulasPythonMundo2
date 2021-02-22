@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c469f05-7cd1-4db7-a5dd-cb6e8db4db86" name="Default Changelist" comment="fim" />
+    <list default="true" id="3c469f05-7cd1-4db7-a5dd-cb6e8db4db86" name="Default Changelist" comment="fim">
+      <change afterPath="$PROJECT_DIR$/pandas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -459,6 +462,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="518" y="43" key="#Code_Folding/0.0.1280.680@0.0.1280.680" timestamp="1604758312427" />
+    <state x="408" y="193" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1609851962688">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="408" y="193" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.900@0.0.1440.900" timestamp="1609851962688" />
     <state width="1259" height="202" key="GridCell.Tab.0.bottom" timestamp="1606001490007">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
