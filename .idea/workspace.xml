@@ -20,7 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c469f05-7cd1-4db7-a5dd-cb6e8db4db86" name="Default Changelist" comment="fim">
-      <change afterPath="$PROJECT_DIR$/pandas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercícios/exercicio Nelson.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulador de fila.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AulasPythonMundo2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AulasPythonMundo2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,57 +52,16 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="R" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Exercícios" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\rbpop\Documents\Aulas PythonMundo2\AulasPythonMundo2\Exercícios" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.per">
-    <configuration name="ex112" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AulasPythonMundo2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercícios" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios/ex112.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex113" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AulasPythonMundo2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercícios" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios/ex113.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.simulador de fila">
     <configuration name="ex114" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AulasPythonMundo2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -142,6 +104,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="exercicio Nelson" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AulasPythonMundo2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercícios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercícios/exercicio Nelson.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="per" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AulasPythonMundo2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -163,13 +146,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="simulador de fila" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AulasPythonMundo2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/simulador de fila.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.simulador de fila" />
+        <item itemvalue="Python.exercicio Nelson" />
         <item itemvalue="Python.per" />
         <item itemvalue="Python.ex115" />
         <item itemvalue="Python.ex114" />
-        <item itemvalue="Python.ex113" />
-        <item itemvalue="Python.ex112" />
       </list>
     </recent_temporary>
   </component>
@@ -456,54 +460,5 @@
     <MESSAGE value="ex115c" />
     <MESSAGE value="fim" />
     <option name="LAST_COMMIT_MESSAGE" value="fim" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="518" y="43" key="#Code_Folding" timestamp="1604758312427">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="518" y="43" key="#Code_Folding/0.0.1280.680@0.0.1280.680" timestamp="1604758312427" />
-    <state x="408" y="193" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1609851962688">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="408" y="193" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.900@0.0.1440.900" timestamp="1609851962688" />
-    <state width="1259" height="202" key="GridCell.Tab.0.bottom" timestamp="1606001490007">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1419" height="160" key="GridCell.Tab.0.bottom/-1920.-180.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1604436994743" />
-    <state width="1259" height="202" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1606001490007" />
-    <state width="1419" height="497" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605901832447" />
-    <state width="1259" height="202" key="GridCell.Tab.0.center" timestamp="1606001490007">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1419" height="160" key="GridCell.Tab.0.center/-1920.-180.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1604436994742" />
-    <state width="1259" height="202" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1606001490007" />
-    <state width="1419" height="497" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1605901832446" />
-    <state width="1259" height="202" key="GridCell.Tab.0.left" timestamp="1606001490007">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1419" height="160" key="GridCell.Tab.0.left/-1920.-180.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1604436994741" />
-    <state width="1259" height="202" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1606001490007" />
-    <state width="1419" height="497" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1605901832445" />
-    <state width="1259" height="202" key="GridCell.Tab.0.right" timestamp="1606001490007">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1419" height="160" key="GridCell.Tab.0.right/-1920.-180.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1604436994742" />
-    <state width="1259" height="202" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1606001490007" />
-    <state width="1419" height="497" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1605901832446" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1606001472851">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="262" y="98" key="Vcs.Push.Dialog.v2/-1920.-180.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1604436982403" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1606001472851" />
-    <state x="262" y="98" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1605904044119" />
-    <state x="515" y="338" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605900891929">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1604179021150" />
-    <state x="515" y="338" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1605900891929" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1604267965589">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1604267965589" />
   </component>
 </project>
